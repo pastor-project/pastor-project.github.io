@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
+title: <img src="/assets/img/logo2.png" alt="drawing" width="400">
+description: <p style="font-size:22px;">Programmable and Adaptable Storage for AI-oriented HPC Ecosystems</p>
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-{: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+High-Performance Computing (HPC) services are increasingly sought to meet the demands of Artificial Intelligence (AI) applications. While the processing capabilities offered by HPC infrastructures can scale and handle the computational requirements of AI applications, the same does not hold true for the storage counterpart. Indeed, shared storage architectures quickly become a performance bottleneck when used by multiple instances of data-centric applications. 
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+The PAStor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to dynamically meet application requirements. The proposed solution will be crucial to address the aforementioned storage performance bottleneck and fairness challenges of HPC infrastructures.  The research output from PAStor will be released as an open-source prototype that will provide the first building block towards a novel storage architecture suited for the exascale computing infrastructure.
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+By gathering the expertise of [INESC TEC](https://www.inesctec.pt/en) and [Hood College](https://www.hood.edu) researchers in the AI and distributed storage fields, and by including researchers from [TACC](https://www.tacc.utexas.edu) and [MACC](https://macc.fccn.pt) with experience on managing HPC infrastructures, the project will produce new high quality research findings and advance the state-of-the-art for storage solutions currently deployed at HPC centers. 
+
 
 
