@@ -2,7 +2,7 @@
 title: PAStor                  # Title in top navigation bar (navbar) and <head>
 description: PAStor website # Site description in <head>
 author: João Paulo                  # Used for copyright statement in footer
-url: "https://pastor.github.io"  # No slash at the end
+url: "https://pastor-project.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
