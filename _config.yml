@@ -8,9 +8,9 @@ url: "https://pastor.github.io"  # No slash at the end
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-#email: jtpaulo@inesctec.pt           # Social icon in footer
-#twitter_username: jtmpaulo           # Social icon in footer
-#github_username: jtpaulo            # Social icon in footer
+#email:                              # Social icon in footer
+#twitter_username:            # Social icon in footer
+#github_username:            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
