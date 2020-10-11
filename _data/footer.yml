@@ -12,10 +12,8 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This work is funded by National Funds through the FCT - Fundação para a Ciência e a Tecnologia (Portuguese Foundation for Science and Technology) within project UTA-EXPL/CA/0075/2019.
-      
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      <img src="/assets/img/fct.png" alt="drawing" width="100"><img src="/assets/img/pt.jpg" alt="drawing" width="100">
-
+      <br><img src="/assets/img/fct.png" alt="drawing" width="60"><img src="/assets/img/pt.jpg" alt="drawing" width="60"><img src="/assets/img/utaustinpt.png" alt="drawing" width="120">
+     
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
