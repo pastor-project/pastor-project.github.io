@@ -8,19 +8,19 @@
 
 - name: Weijia Xu
   role: Project Coordinator
-  image: assets/img/default.jpg
+  image: assets/img/weijia.jpg
   description: >
     [Research Engineer](https://www.tacc.utexas.edu/about/directory/weijia-xu) at TACC. 
 
 - name: Xinlian Liu
   role: Researcher
-  image: assets/img/default.jpg
+  image: assets/img/xinlian.jpg
   description: >
     [Associate Professor](https://www.hood.edu/academics/faculty/xinlian-liu) at Hood College.
 
 - name: Rui Ribeiro
   role: Researcher # Will appear next to name
-  image: assets/img/default.jpg # Can be external link
+  image: assets/img/rui.jpg # Can be external link
   description: > # Can be Markdown
     Researcher at MACC.
 
