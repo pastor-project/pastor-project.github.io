@@ -12,6 +12,8 @@ This page will be updated during the project duration.
 ---
 #### Publications
 
+Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR)
+
 ----
 #### Talks
 
