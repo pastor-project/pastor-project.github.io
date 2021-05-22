@@ -20,6 +20,6 @@ This page will be updated during the project duration.
 ---
 #### Prototypes
 
-* [S2Dedup](https://github.com/mmm97/S2Dedup) is a trusted hardware-based privacy-preserving deduplication system designed to support multiple security schemes that enable different levels of performance, security guarantees and space savings. Such feature is key to ensure S2Dedup’s applicability to a wider range of applications with different requirements. The proposed solution leverages Intel Software Guard Extensions to enable cross-user privacy-preserving deduplication at third-party storage infrastructures.
+* [S2Dedup](https://github.com/mmm97/S2Dedup) leverages intel SGX to enable privacy-preserving deduplication at untrusted servers. The open-source prototype, built with SPDK, supports multiple secure schemes. Deduplication is more and more used to optimize the performance and reduce the storage costs of Big Data applications (e.g., Deep Learning frameworks) that deal with large quantities of information. Our solution enables this technique at third-party infrastructures, such as HPC centers, without compromising the privacy of users’ sensitive data.
 
 ---
