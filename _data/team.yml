@@ -30,6 +30,12 @@
   description: > # Can be Markdown
     Phd Student at INESC TEC and U. Minho.
 
+- name: Mariana Miranda
+  role: Researcher # Will appear next to name
+  image: assets/img/mariana.jpg # Can be external link
+  description: > # Can be Markdown
+    PhD Student at INESC TEC and U. Minho.
+
 - name: Cláudia Correia
   role: Researcher # Will appear next to name
   image: assets/img/claudia.jpg # Can be external link
