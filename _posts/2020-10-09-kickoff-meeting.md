@@ -1,6 +1,6 @@
 ---
 title: Kickoff Meeting
-description: 9 October 2020
+description:
 background: /assets/img/pastor-news.jpg
 author: [João Paulo]
 categories: [Meetings]
