@@ -18,6 +18,12 @@
   description: >
     [Associate Professor](https://www.hood.edu/academics/faculty/xinlian-liu) at Hood College.
 
+- name: José Pereira
+  role: Co-PI # Will appear next to name
+  image: assets/img/jop.jpg # Can be external link
+  description: > # Can be Markdown
+    [Associate Professor](https://www.inesctec.pt/pt/pessoas/jose-orlando-pereira) at U. Minho and INESC TEC.
+
 - name: Rui Ribeiro
   role: Researcher # Will appear next to name
   image: assets/img/rui.jpg # Can be external link
