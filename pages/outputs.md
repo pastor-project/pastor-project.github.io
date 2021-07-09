@@ -12,10 +12,12 @@ This page will be updated during the project duration.
 ---
 #### Publications
 
-* Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR)
+* Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR). 2021
 
 ----
 #### Talks
+
+* PAStor's presentation at UT Austin Portugal Program's workshop "Better prepared: Strengthening societies through international scientific collaboration". Collocated with Encontro Ciência'21 in Lisbon, Portugal.
 
 ---
 #### Prototypes
