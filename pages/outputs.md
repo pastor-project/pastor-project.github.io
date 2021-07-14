@@ -14,6 +14,8 @@ This page will be updated during the project duration.
 
 * Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR). 2021
 
+* Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: A Software-Defined Storage Data Plane Framework. ArXiv – Computing Research Repository (CoRR), 2021. 
+
 ----
 #### Talks
 
