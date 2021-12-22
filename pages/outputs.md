@@ -20,6 +20,14 @@ This page will be updated during the project duration.
 
 * Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: A Software-Defined Storage Data Plane Framework. ArXiv – Computing Research Repository (CoRR), 2021. 
 
+
+----
+#### Thesis
+
+* Ricardo Macedo, PhD Thesis - Towards a Dependable and Decentralized Software-Defined Storage Architecture (on-going).
+* Marco Dantas, MSc Thesis - Accelerating Deep Learning Training through Transparent Storage Tiering (on-going).
+* Cláudia Correia, MSc Thesis - PRISMA: A Prefetching Storage Middleware for Accelerating Deep Learning Frameworks, 2021.
+
 ----
 #### Talks
 
