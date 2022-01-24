@@ -26,15 +26,17 @@ This page will be updated during the project duration.
 ----
 #### Thesis
 
-* Ricardo Macedo, PhD Thesis - Towards a Dependable and Decentralized Software-Defined Storage Architecture (on-going).
+* Ricardo Macedo, PhD Thesis - User-level Software-Defined Storage Data Planes (on-going).
 * Mariana Miranda, PhD Thesis - Distributed and Dependable SDS Control Plane for HPC (on-going).
 * Marco Dantas, MSc Thesis - Accelerating Deep Learning Training through Transparent Storage Tiering (on-going).
 * Cláudia Correia, MSc Thesis - PRISMA: A Prefetching Storage Middleware for Accelerating Deep Learning Frameworks, 2021.
 
 ----
-#### Talks
+#### Talks and Events
 
 * October 21, 2021 - Virtual e-poster of PAStor. Presented at the UT AUstin Portugal 2021 Annual Conference. Available [here](https://youtu.be/ojO2HViFVQc). 
+
+* September 20, 2021 - The PAStor project was one of the supporters for the 1st Workshop on High-Performance and Reliable Big Data (HPBD’21), co-located with SRDS 2021. The workshop included researchers from the project in the organization and technical committees. The workshop’s website is available [here](https://hpbd-21.github.io).
 
 * September 16, 2021 - Presentation of PAStor outputs at the Webinar Series *On the Road to HPC: Major Challenges and New Opportunities*. Title of the talk: *Is HPC ready for “Big” Data Storage?*. Video recording available [here](https://www.youtube.com/watch?v=IqDrwYyB8Oc&t=2s).
 

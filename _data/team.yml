@@ -24,7 +24,6 @@
   description: > # Can be Markdown
     [Researcher](https://rmpvilaca.github.io) at MACC, U. Minho and INESC TEC.
 
-
 - name: José Pereira
   role: Researcher # Will appear next to name
   image: assets/img/jop.jpg # Can be external link
@@ -78,3 +77,20 @@
   image: assets/img/pedro.jpg # Can be external link
   description: > # Can be Markdown
     BSc Student at INESC TEC and U. Minho.
+
+- name: Peter Cui
+  role: Researcher # Will appear next to name
+  image: assets/img/default.jpg # Can be external link
+  description: > # Can be Markdown
+    Student at TACC / UT Austin.
+
+- name: Cece Vu
+  role: Researcher # Will appear next to name
+  image: assets/img/default.jpg # Can be external link
+  description: > # Can be Markdown
+    Student at TACC / UT Austin.
+
+
+
+
+
