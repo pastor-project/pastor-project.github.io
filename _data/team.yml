@@ -78,6 +78,12 @@
   description: > # Can be Markdown
     BSc Student at INESC TEC and U. Minho.
 
+- name: Beatriz Moreira
+  role: Researcher # Will appear next to name
+  image: assets/img/beatriz.jpg # Can be external link
+  description: > # Can be Markdown
+    BSc Student at INESC TEC and U. Minho.
+
 - name: Peter Cui
   role: Researcher # Will appear next to name
   image: assets/img/default.jpg # Can be external link
