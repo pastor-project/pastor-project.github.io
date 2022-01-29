@@ -66,6 +66,12 @@
   description: > # Can be Markdown
     BSc Student at INESC TEC and U. Minho.
 
+- name: Peter Cui
+  role: Researcher # Will appear next to name
+  image: assets/img/peter.jpg # Can be external link
+  description: > # Can be Markdown
+    Student at TACC / UT Austin.
+
 - name: Rúben Adão
   role: Researcher # Will appear next to name
   image: assets/img/ruben.jpg # Can be external link
@@ -83,12 +89,6 @@
   image: assets/img/beatriz.jpg # Can be external link
   description: > # Can be Markdown
     BSc Student at INESC TEC and U. Minho.
-
-- name: Peter Cui
-  role: Researcher # Will appear next to name
-  image: assets/img/default.jpg # Can be external link
-  description: > # Can be Markdown
-    Student at TACC / UT Austin.
 
 - name: Cece Vu
   role: Researcher # Will appear next to name
