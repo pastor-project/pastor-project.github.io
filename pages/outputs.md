@@ -12,7 +12,9 @@ This page will be updated during the project duration.
 ---
 #### Publications
 
-* Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST). 2022
+* Dantas M, Leitão D, Cui P, Macedo R, Liu X, Xu W, Paulo J. Accelerating Deep Learning Training Through Transparent Storage Tiering. IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid). 2022
+
+* Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J, Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST). 2022
 
 * Macedo R, Correia C, Dantas M, Brito C, Xu W, Tanimura Y, Haga J, Paulo J. The Case for Storage Optimization Decoupling in Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with IEEE Cluster. 2021
 
